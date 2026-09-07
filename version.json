@@ -1,0 +1,9 @@
+{
+  "latest_version_code": 2,
+  "latest_version_name": "v1.2",
+  "min_required_version": 2,
+  "force_update": false,
+  "title": "LinkFly Update Available",
+  "message": "A new version with faster verification, smoother navigation, and link fixes is available. Update now to continue.",
+  "apk_url": "https://github.com/Amanalria/LinkFly-App/releases/download/v1.2/LinkFly-v1.2.apk"
+}
