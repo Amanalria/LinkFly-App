@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 2,
-  "latest_version_name": "v1.2",
-  "min_required_version": 2,
+  "latest_version_code": 3,
+  "latest_version_name": "v1.3",
+  "min_required_version": 3,
   "force_update": true,
   "title": "LinkFly Update Required",
-  "message": "Naya fast version LinkFly v1.2 aa chuka hai! App use karne ke liye please update karein.",
+  "message": "Naya fast version LinkFly v1.3 aa chuka hai! App use karne ke liye please update karein.",
   "apk_url": "https://drive.google.com/file/d/1fvI2ASX1p1xcIsShl6xH0-2-FSIQX_oI/view?usp=drivesdk"
 }
